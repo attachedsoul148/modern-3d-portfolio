@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'Norm tipanya , delaye krasivo , bazaryu. Na robotu beritb yogo, bo puvo same sebe ne postavytb.',
+      'Krutyi chlopchuna, beritb yogo na roboru pls.',
     name: 'Andrii Karapinka',
     designation: 'CFO',
     company: 'Acme Co',
@@ -180,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Ya v tilti, hochu tyanochku nu abo v park na romantiku.",
+      "Ya v tilti, vizmitb yogo ra robotu nareshti.",
     name: 'Lavrin Mayik',
     designation: 'COO',
     company: 'DEF Corp',
@@ -188,7 +188,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Ta idi nahuy, ya v dotu grayu v mene znov daunu v komandi.",
+      "Treba braty yogo, cool pazan.",
     name: 'Ostapulchik2077',
     designation: 'CTO',
     company: '456 Enterprises',
